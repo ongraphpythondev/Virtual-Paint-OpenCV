@@ -1,8 +1,8 @@
 # Virtual-Paint-OpenCV
 
 ### Install required python libraries used in Virtual Paint : 
-> pip install -r requirements.txt
-> extra requirement -> pip install mediapipe
+1. pip install -r requirements.txt<br>
+2. other requirement install -> pip install mediapipe<br>
 
 ### In this Virtual Paint :
 1. In this project , we are using python's OpenCV for image virtualization and mediapipe for hand tracking .<br>
